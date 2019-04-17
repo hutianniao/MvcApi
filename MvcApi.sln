@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApi", "MvcApi\MvcApi.csproj", "{0748E6F7-72FB-4B14-98B1-C0C0A10B9CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0748E6F7-72FB-4B14-98B1-C0C0A10B9CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0748E6F7-72FB-4B14-98B1-C0C0A10B9CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0748E6F7-72FB-4B14-98B1-C0C0A10B9CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0748E6F7-72FB-4B14-98B1-C0C0A10B9CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
