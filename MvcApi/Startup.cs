@@ -57,7 +57,7 @@ namespace MvcApi
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello,World." + System.DateTime.Now);
+                await context.Response.WriteAsync("MvcApiDemo." + System.DateTime.Now);
             });
 
         }
